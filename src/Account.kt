@@ -1,0 +1,1 @@
+class Account(var phoneNumber: String, var password: String, var manager: Manager)

@@ -1,0 +1,1 @@
+class IncomeHistory(var cardNumber: String, var sum: Double, var date: String, var comment: String)
